@@ -266,5 +266,5 @@ where `__name__` == `__main__` that simply difines as the block only executes wh
 Here i added some strings that prints some structural format of data representation for better user understandability
 """
 
-1if __name__ == "__main__":
+if __name__ == "__main__":
     re_sys()
